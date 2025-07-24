@@ -1,5 +1,7 @@
 ---
-layout: projects
-icon: fas fa-stream
-order: 1
+title: Projects
+icon: fas fa-project-diagram
+order: 3
 ---
+
+Here are some of my featured projects.
