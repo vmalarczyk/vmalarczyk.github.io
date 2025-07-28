@@ -91,7 +91,7 @@ order: 2
       <i class="fas fa-plane project-icon"></i><strong>Airfoil Aerodynamics at Extreme Reynolds Numbers</strong>
     </h3>
     <p style="font-size: 0.92rem; line-height: 1.4; font-family: 'Fira Mono', 'Courier New', Courier, monospace;">
-      Investigating flow behavior and separation phenomena on airfoils under high-Reynolds number conditions relevant to wind turbine and helicopters.
+      Investigating dynamic flow separation and attachment on airfoils under high-Reynolds number conditions relevant to wind turbines and helicopters.
     </p>
   </div>
 
@@ -101,7 +101,7 @@ order: 2
       <i class="fas fa-wave-square project-icon"></i><strong>The Quasi-Steady Limit</strong>
     </h3>
     <p style="font-size: 0.92rem; line-height: 1.4; font-family: 'Fira Mono', 'Courier New', Courier, monospace;">
-      Examining the breakdown of the quasi-steady approximation in unsteady aerodynamic environments, with implications for modeling and control.
+      Examining the breakdown of the quasi-steady approximation in unsteady aerodynamic phenomena, with implications for modeling and control.
     </p>
   </div>
 
@@ -111,7 +111,7 @@ order: 2
       <i class="fas fa-tools project-icon"></i><strong>Towards Better Experimentation</strong>
     </h3>
     <p style="font-size: 0.92rem; line-height: 1.4; font-family: 'Fira Mono', 'Courier New', Courier, monospace;">
-      My notes on novel wind tunnel techniques and diagnostics to improve accuracy, repeatability, and insight in experimental fluid mechanics.
+      Some notes on novel wind tunnel techniques and diagnostics to improve accuracy, repeatability, and insight in experimental fluid mechanics.
     </p>
   </div>
 
