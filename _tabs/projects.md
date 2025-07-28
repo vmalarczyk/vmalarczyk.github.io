@@ -121,7 +121,7 @@ order: 2
       <i class="fas fa-battery-full project-icon"></i><strong>Harvesting Energy using Thermoelectric Materials</strong>
     </h3>
     <p style="font-size: 0.92rem; line-height: 1.4; font-family: 'Fira Mono', 'Courier New', Courier, monospace;">
-      Redesign of a common car brake pad to be outfitted with a thermoelectric medium capable of converting heat losses from friction to usable energy. 
+      Redesign of a common car brake pad to be outfitted with a thermoelectric medium capable of converting heat losses from friction to reusable energy. 
     </p>
   </div>
 
