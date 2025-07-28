@@ -79,7 +79,7 @@ order: 2
 
 <!-- Intro Text -->
 <div style="font-family: 'Fira Mono', 'Courier New', Courier, monospace; font-size: 1.02rem; line-height: 1.5; margin-bottom: 2rem;">
-  My interests surround the intersection of fundamental fluid mechanics, thermo- and aerodynamics, and high-fidelity experimentation. Here are some things I'm looking into or previously worked on:
+  My interests surround the intersection of fundamental fluid mechanics, thermo- and aerodynamics, and high-fidelity experimentation. Here are some things I'm looking into or have previously worked on:
 </div>
 
 <!-- Project Cards Container -->
